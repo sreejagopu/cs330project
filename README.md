@@ -14,6 +14,7 @@ would take to break the lock, this is done using a randomized program from which
 random is excecuted. 
 
 ### Testing
-This program has been tested on jupyter and has worked. The first part is user in put, 
+This program has been tested on visual studios and has worked. The first part is user in put, 
 you can put any 5 digit access code and then for the locking/unlokcing, type the access 
-code followed by 4 or 1 depending on wether you want to lock or unlock.
+code followed by 4 or 1 depending on wether you want to lock or unlock. You can use either visual studios 
+or python compiler to execute the program.
